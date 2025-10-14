@@ -277,19 +277,12 @@ const CropModalComponent: React.FC<CropModalProps> = ({
                   onError={(e) => {
                     console.error("❌ 图片加载失败:", e);
                   }}
-                  style={
-                    mediaWidth && mediaHeight
-                      ? {
-                          height: "450px",
-                          width: `${(450 * mediaWidth) / mediaHeight}px`,
-                          display: "block",
-                        }
-                      : {
-                          maxWidth: "100%",
-                          maxHeight: "100%",
-                          display: "block",
-                        }
-                  }
+                  style={{
+                    maxWidth: "100%",
+                    maxHeight: "450px",
+                    display: "block",
+                    objectFit: "contain", // 保持宽高比，不变形
+                  }}
                 />
               </ReactCrop>
             </div>
