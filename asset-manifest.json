@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/web-video-editor/static/css/main.6e6e43ed.css",
-    "main.js": "/web-video-editor/static/js/main.56f720ed.js",
+    "main.css": "/web-video-editor/static/css/main.51c4b6b4.css",
+    "main.js": "/web-video-editor/static/js/main.2dcba3e7.js",
     "static/js/419.631b23c4.chunk.js": "/web-video-editor/static/js/419.631b23c4.chunk.js",
     "static/js/726.56c05ec2.chunk.js": "/web-video-editor/static/js/726.56c05ec2.chunk.js",
     "index.html": "/web-video-editor/index.html",
-    "main.6e6e43ed.css.map": "/web-video-editor/static/css/main.6e6e43ed.css.map",
-    "main.56f720ed.js.map": "/web-video-editor/static/js/main.56f720ed.js.map",
+    "main.51c4b6b4.css.map": "/web-video-editor/static/css/main.51c4b6b4.css.map",
+    "main.2dcba3e7.js.map": "/web-video-editor/static/js/main.2dcba3e7.js.map",
     "419.631b23c4.chunk.js.map": "/web-video-editor/static/js/419.631b23c4.chunk.js.map",
     "726.56c05ec2.chunk.js.map": "/web-video-editor/static/js/726.56c05ec2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e6e43ed.css",
-    "static/js/main.56f720ed.js"
+    "static/css/main.51c4b6b4.css",
+    "static/js/main.2dcba3e7.js"
   ]
 }
