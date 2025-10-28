@@ -1,0 +1,31 @@
+{
+  "fonts": [
+    {
+      "family": "KaiTi",
+      "displayName": "楷体",
+      "url": "/fonts/KaiTi/SIMKAI.TTF",
+      "children": []
+    },
+    {
+      "family": "Microsoft YaHei",
+      "displayName": "微软雅黑",
+      "children": [
+        {
+          "family": "Microsoft YaHei Light",
+          "displayName": "Light",
+          "url": "/fonts/MicrosoftYahei/MSYHL.TTC"
+        },
+        {
+          "family": "Microsoft YaHei Regular",
+          "displayName": "Regular",
+          "url": "/fonts/MicrosoftYahei/MSYH.TTC"
+        },
+        {
+          "family": "Microsoft YaHei Bold",
+          "displayName": "Bold",
+          "url": "/fonts/MicrosoftYahei/MSYHBD.TTC"
+        }
+      ]
+    }
+  ]
+}
